@@ -6,7 +6,7 @@ rating: 4/5
 excerpt: I've Finally Stopped Sleeping
 ---
 
-I've never given a book five stars based only on the first half of the first page, but it was very tempting with
+I've never given a book five stars based only on the first half of the first page, but it was tempting with
 [The Grownup](https://amzn.to/2YCUH1U). It starts in a way that feels like it's in the middle of a conversation,
 but we're joining in as the conversation gets good.  I was laughing out loud (and not like when people say "lol").
 

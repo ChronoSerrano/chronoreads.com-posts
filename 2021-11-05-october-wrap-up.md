@@ -2,10 +2,10 @@
 title: October Wrap Up
 categories:
 - wrap-up
-excerpt: Here are the 10 books that I finished in October 2021...
+excerpt: Here are the 10 books that I finished in October 2021…
 date: 2021-11-05 15:35 -0700
 ---
-I learned something interesting about myself this month... I can't read nonfiction without also having
+I learned something interesting about myself this month… I can't read nonfiction without also having
 a fiction book to balance it out. I'll make sure to compensate for that in the future.
 
 # Nonfiction
